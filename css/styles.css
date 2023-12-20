@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFF;
+}
+a {
+    text-decoration: none;
+}
+ul,ol {
+    list-style: none;
+}
+
+
+.header-logo {
+    color:#4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;    
+    font-weight: 700;
+    line-height: 1,17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.header-logo-part {
+   color:#2E2F42
+}
+
+.header-menu-link { 
+     color:#2E2F42;
+    font-size: 16px;    
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.header-menu-link:hover,
+.header-menu-link:focus{
+   color:#404BBF;
+}
+.adress {
+    font-style: normal;
+}
+
+.adress-menu-link {
+    color:#434455;
+line-height: 1.5;
+letter-spacing:0,02em
+}
+.adress-menu-link:hover,
+.adress-menu-link:focus{
+   color:#404BBF
+}
