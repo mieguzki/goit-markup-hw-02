@@ -96,8 +96,9 @@ ul,ol {
 }
 
 .hero-order-btn:hover,
-.hero-order-btn:focus {
-    color: #404BBF;
+.hero-order-btn:focus,
+.hero-order-btn:active {
+    background-color: #404BBF;
 }
 /* ----------------------------------------- */
 /* ------------------ABOUT US------------------ */
