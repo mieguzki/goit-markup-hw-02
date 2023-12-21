@@ -32,7 +32,7 @@ ul,ol {
     font-family: Raleway, sans-serif;
     font-size: 18px;    
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -49,8 +49,8 @@ ul,ol {
 }
 
 .header-menu-link:hover,
-.header-menu-link:focus{
-   color:#404BBF;
+.header-menu-link:focus {
+   color:#404bbf;
 }
 
 .adress {
@@ -60,17 +60,20 @@ ul,ol {
 .adress-menu-link { 
        color:#434455;
     line-height: 1.5;
-    letter-spacing:0,02em
+    letter-spacing:0.02em
 }
+
 .adress-menu-link:hover,
-.adress-menu-link:focus{
-   color:#404BBF
+.adress-menu-link:focus {
+   color: #404bbf;
 }
+
 /* ----------------------------------------- */
 /* ------------------HERO------------------ */
 .hero {
     background:#2E2F42;
 }
+
 .hero-title {
     color:#FFF;
     text-align: center;
@@ -79,20 +82,21 @@ ul,ol {
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
+
 .hero-order-btn {
-    color:#FFF;
+    color: #FFF;
     font-family: inherit;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    background-color:#4D5AE5
-    }
+    background-color: #4D5AE5;
+}
 
 .hero-order-btn:hover,
 .hero-order-btn:focus {
-    color:#404BBF
+    color: #404BBF;
 }
 /* ----------------------------------------- */
 /* ------------------ABOUT US------------------ */
@@ -123,8 +127,7 @@ letter-spacing:0.02em;
 }
 
 .our-team-list {
-    color:#2E2F42;
-    text-align: center;   
+    color:#2E2F42;      
     font-size: 36px;    
     font-weight: 700;
     line-height: 1.11;
@@ -133,8 +136,7 @@ letter-spacing:0.02em;
 }
 
 .our-team-name {
-    color:#2E2F42;
-    text-align: center;    
+    color:#2E2F42;       
     font-size: 20px;    
     font-weight: 500;
     line-height: 1.2;
@@ -142,8 +144,7 @@ letter-spacing:0.02em;
 }
 
 .our-team-text {
-    color:#434455;
-    text-align: center;    
+    color:#434455;        
     font-size: 16px;    
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -153,8 +154,7 @@ letter-spacing:0.02em;
 .portfolio {
 }
 .portfolio-name {
-    color:#2E2F42;
-    text-align: center;   
+    color:#2E2F42;      
     font-size: 36px;    
     font-weight: 700;
     line-height:1.11;
