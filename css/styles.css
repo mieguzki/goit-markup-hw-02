@@ -137,8 +137,8 @@ letter-spacing:0.02em;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-our-team-list {
-    background-color:#FFFFFF
+.our-team-list {
+    background-color:#FFF
 }
 
 .our-team-name {
